@@ -1,5 +1,5 @@
 <h1 align="center">Nowshin Fabiha Ibnat</h1>
-<h3 align="center">Flutter Developer · Software Engineering Student @ NSTU</h3>
+<h3 align="center">Flutter Developer</h3>
 <p align="center">I build clean, user-focused mobile and web apps, and I'm always learning something new.</p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Studying **Software Engineering** at **Noakhali Science and Technology University (NSTU)**
+- 🎓 Completed my B.Sc. in **Software Engineering** at **Noakhali Science and Technology University (NSTU)**
 - 📱 Working as a **Flutter Developer**, building cross-platform mobile apps
 - 🧩 Practicing problem solving on [CodeChef](https://www.codechef.com/users/fabiha_ibnat)
 - 🌐 Portfolio and past work: [fabihapritha.github.io/portfolio](https://fabihapritha.github.io/portfolio/)
@@ -34,26 +34,6 @@
 **Languages & Database:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-> Projects from my original account are being migrated. Until then, see the portfolio for details.
-
-| Project | What it does | Tech | Link |
-|---|---|---|---|
-| **Project name** | One line on the problem it solves | Flutter, Dart, ... | [Repo](#) · [Demo](#) |
-| **Project name** | One line on the problem it solves | Laravel, MySQL, ... | [Repo](#) · [Demo](#) |
-| **Project name** | One line on the problem it solves | Flutter, REST API, ... | [Repo](#) · [Demo](#) |
-
----
-
-## 📌 What I'm Currently Doing
-
-- 🔨 Re-uploading my best projects to this account
-- 📚 Improving my Flutter architecture and code quality
-- 🏆 Solving problems regularly to sharpen data structures and algorithms
 
 ---
 
