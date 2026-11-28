@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nowshin-fabiha-ibnat-594027263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://fabihapritha.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://nowshinfabihaportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <a href="mailto:ibnatnstu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -20,7 +20,7 @@
 - 🎓 Completed my B.Sc. in **Software Engineering** at **Noakhali Science and Technology University (NSTU)**
 - 📱 Working as a **Flutter Developer**, building cross-platform mobile apps
 - 🧩 Practicing problem solving on [CodeChef](https://www.codechef.com/users/fabiha_ibnat)
-- 🌐 Portfolio and past work: [fabihapritha.github.io/portfolio](https://fabihapritha.github.io/portfolio/)
+- 🌐 Portfolio and past work: [fabihapritha.github.io/portfolio](https://nowshinfabihaportfolio.netlify.app/)
 - 📫 Open to **internships, junior and freelance roles**: ibnatnstu@gmail.com
 
 ---
