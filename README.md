@@ -41,4 +41,4 @@
 
 - 💼 LinkedIn: [nowshin-fabiha-ibnat](https://www.linkedin.com/in/nowshin-fabiha-ibnat-594027263/)
 - 📧 Email: ibnatnstu@gmail.com
-- 🌐 Portfolio: [fabihapritha.github.io/portfolio](https://fabihapritha.github.io/portfolio/)
+- 🌐 Portfolio: [fabihapritha.github.io/portfolio](https://nowshinfabihaportfolio.netlify.app/)
